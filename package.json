@@ -1,5 +1,5 @@
 {
-  "name": "portexe-react-pwr",
+  "name": "dpds-react",
   "version": "1.0.0",
   "description": "A simple react component that accepts a list of password requirements and updates each as they are fulfilled",
   "main": "dist/index.js",
@@ -32,6 +32,5 @@
   "peerDependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  },
-  "dependencies": {}
+  }
 }
