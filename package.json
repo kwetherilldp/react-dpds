@@ -1,7 +1,7 @@
 {
-  "name": "dpds-react",
+  "name": "felux-react",
   "version": "1.0.0",
-  "description": "A simple react component that accepts a list of password requirements and updates each as they are fulfilled",
+  "description": "Front-end library and UX Design System",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "build-storybook": "build-storybook -o docs",
     "build-lib": "rollup -c"
   },
-  "author": "Zackery Wilson",
+  "author": "Kirk Wetherill",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.10",
